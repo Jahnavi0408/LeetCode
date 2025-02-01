@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jahnavi0408/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Jahnavi0408/LeetCode/tree/master/0283-move-zeroes) |
 | [3429-special-array-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Jahnavi0408/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
