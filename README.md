@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jahnavi0408/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jahnavi0408/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jahnavi0408/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jahnavi0408/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jahnavi0408/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jahnavi0408/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
