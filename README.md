@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Jahnavi0408/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Jahnavi0408/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jahnavi0408/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jahnavi0408/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jahnavi0408/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jahnavi0408/LeetCode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Jahnavi0408/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Jahnavi0408/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
