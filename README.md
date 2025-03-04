@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jahnavi0408/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi0408/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Jahnavi0408/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jahnavi0408/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
