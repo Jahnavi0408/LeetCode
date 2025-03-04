@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jahnavi0408/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Jahnavi0408/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Jahnavi0408/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jahnavi0408/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jahnavi0408/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jahnavi0408/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jahnavi0408/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Jahnavi0408/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Jahnavi0408/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jahnavi0408/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jahnavi0408/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Jahnavi0408/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jahnavi0408/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
