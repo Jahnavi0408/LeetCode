@@ -6,6 +6,9 @@ class Solution:
 
         # return c1 == c2 
 
+        if len(s) != len(t):  
+            return False
+
         mapst = {}
         mapts = {}
 
