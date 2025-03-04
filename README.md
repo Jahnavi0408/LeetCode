@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jahnavi0408/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jahnavi0408/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Jahnavi0408/LeetCode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jahnavi0408/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Jahnavi0408/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jahnavi0408/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Jahnavi0408/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Jahnavi0408/LeetCode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
