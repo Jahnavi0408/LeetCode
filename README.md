@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Jahnavi0408/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jahnavi0408/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -126,4 +127,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Jahnavi0408/LeetCode/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jahnavi0408/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jahnavi0408/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jahnavi0408/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jahnavi0408/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
