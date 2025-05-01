@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jahnavi0408/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Jahnavi0408/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jahnavi0408/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Jahnavi0408/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Jahnavi0408/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jahnavi0408/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jahnavi0408/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Jahnavi0408/LeetCode/tree/master/0792-binary-search) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jahnavi0408/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jahnavi0408/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jahnavi0408/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Jahnavi0408/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jahnavi0408/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Jahnavi0408/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String Matching
 |  |
 | ------- |
@@ -253,9 +257,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jahnavi0408/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jahnavi0408/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
