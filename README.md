@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi0408/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jahnavi0408/LeetCode/tree/master/0283-move-zeroes) |
+| [0868-push-dominoes](https://github.com/Jahnavi0408/LeetCode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jahnavi0408/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Jahnavi0408/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jahnavi0408/LeetCode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Jahnavi0408/LeetCode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Jahnavi0408/LeetCode/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Jahnavi0408/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Jahnavi0408/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jahnavi0408/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Jahnavi0408/LeetCode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jahnavi0408/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jahnavi0408/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
