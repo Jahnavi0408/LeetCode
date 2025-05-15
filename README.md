@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jahnavi0408/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Jahnavi0408/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jahnavi0408/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Jahnavi0408/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jahnavi0408/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Jahnavi0408/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Jahnavi0408/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jahnavi0408/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jahnavi0408/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jahnavi0408/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jahnavi0408/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jahnavi0408/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## String Matching
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Jahnavi0408/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Jahnavi0408/LeetCode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jahnavi0408/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jahnavi0408/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Jahnavi0408/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jahnavi0408/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
