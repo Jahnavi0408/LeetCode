@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jahnavi0408/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Jahnavi0408/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Jahnavi0408/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Jahnavi0408/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jahnavi0408/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jahnavi0408/LeetCode/tree/master/0189-rotate-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Jahnavi0408/LeetCode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Jahnavi0408/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jahnavi0408/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
