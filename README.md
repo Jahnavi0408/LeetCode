@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Jahnavi0408/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jahnavi0408/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Jahnavi0408/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jahnavi0408/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jahnavi0408/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Jahnavi0408/LeetCode/tree/master/2050-count-good-numbers) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Jahnavi0408/LeetCode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Jahnavi0408/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jahnavi0408/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jahnavi0408/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Jahnavi0408/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jahnavi0408/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Jahnavi0408/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
